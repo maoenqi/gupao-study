@@ -6,6 +6,9 @@
     <groupId>com.maoenqi</groupId>
     <artifactId>gupao-study</artifactId>
     <version>1.0</version>
+    <modules>
+        <module>pattern</module>
+    </modules>
     <packaging>pom</packaging>
 
     <name>gupao-study</name>
