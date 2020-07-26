@@ -1,8 +1,8 @@
-package com.gupao.pattern.factory.simple;
+package com.gupao.pattern.factory;
 
 public class JavaCourse implements ICourse {
     @Override
     public void record() {
-        System.out.println("Java Course");
+        System.out.println("录制Java课程");
     }
 }

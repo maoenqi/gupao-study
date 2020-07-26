@@ -1,4 +1,4 @@
-package com.gupao.pattern.factory.simple;
+package com.gupao.pattern.factory;
 
 /**
  * 课程抽象
