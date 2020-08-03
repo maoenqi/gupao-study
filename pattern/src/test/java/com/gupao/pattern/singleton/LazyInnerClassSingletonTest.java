@@ -6,7 +6,7 @@ import com.gupao.pattern.singleton.lazy.LazyInnerClassSingleton;
 import java.lang.reflect.Constructor;
 
 /**
- * Created by Tom.
+ * 反射破解单例测试
  */
 public class LazyInnerClassSingletonTest {
 
